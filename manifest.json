@@ -1,0 +1,17 @@
+{
+  "name": "com.jorgevallejo.utilidad",
+  "version": "1.0.0",
+  "displayName": "Utilidad",
+  "description": "Mi utilidad"
+,
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Jorge Vallejo",
+    "email": "jorgevallejodecastro@gmail.com",
+    "url": "http://www.jorgevallejo.es"
+  }
+}
